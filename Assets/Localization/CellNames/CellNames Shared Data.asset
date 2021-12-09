@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CellNames Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CellNames
+  m_TableCollectionNameGuidString: ff74bc564496a164f8f43faff877ae65
+  m_Entries:
+  - m_Id: 9123082240
+    m_Key: _trade_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 212500688896
+    m_Key: _production_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 250983428096
+    m_Key: _tax_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346663890944
+    m_Key: _the_laws_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377290698752
+    m_Key: _ideology_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409238712320
+    m_Key: _warehouses_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 455619325952
+    m_Key: _ministry_of_education_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489433804800
+    m_Key: _science_and_research_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 516348653568
+    m_Key: _ministry_of_infrastructure_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 543343194112
+    m_Key: _headquarters_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 569419182080
+    m_Key: _troops_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 592735318016
+    m_Key: _national_guard_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 613023166464
+    m_Key: _ministry_of_defence_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 642240688128
+    m_Key: _police_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 667557507072
+    m_Key: _security_service_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696686948352
+    m_Key: _un_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756589998080
+    m_Key: _ministry_of_foreign_affairs_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 782607265792
+    m_Key: _religion_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811090784256
+    m_Key: _ministry_of_health_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 842451595264
+    m_Key: _ministry_of_culture_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866858250240
+    m_Key: _ministry_of_sports_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 889834647552
+    m_Key: _housing_and_communal_services_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 914107084800
+    m_Key: _environment_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 938136252416
+    m_Key: _statistics_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958403129344
+    m_Key: _population_
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1638895984979
